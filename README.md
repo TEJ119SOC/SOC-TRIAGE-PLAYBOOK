@@ -61,6 +61,8 @@ Alert Triggered
 ## 👤 Author
 
 **Sai Teja Adapa** — SOC Analyst Level 1  
+These playbooks are based on SOC best practices, MITRE ATT&CK 
+framework procedures, and hands-on experience with Microsoft Sentinel. 
+Intended as reference material for Tier 1 analysts and security learners.
 [LinkedIn](https://www.linkedin.com/in/tejaadapa23) | [Email](mailto:tejadapa2309@gmail.com)
 
-> These playbooks reflect procedures followed in a real enterprise SOC environment using Microsoft Sentinel and are intended as reference material for fellow analysts and learners.
